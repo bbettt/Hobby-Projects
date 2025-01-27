@@ -26,7 +26,3 @@ The primary goal of this portfolio is to illustrate my technical expertise and p
 I am passionate about cybersecurity and continuously expanding my knowledge through hands-on projects and certifications. This portfolio is a reflection of my commitment to staying current in this rapidly evolving field.  
 
 I welcome feedback and collaboration! Feel free to explore the projects and reach out if you'd like to discuss any of the implementations.
-
----
-
-Let me know if you’d like me to add specific links to your projects, certifications, or platforms like LinkedIn or TryHackMe!****
